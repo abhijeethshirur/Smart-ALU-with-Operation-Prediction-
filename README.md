@@ -16,4 +16,7 @@ Designed, simulated, and synthesized using AMD Xilinx Vivado ML Standard Edition
 
 # Simulation Waveforms & Verification 
 
-![Smart ALU](C:\Users\abhij\OneDrive\Desktop\Smart_ALU\comparision)
+<img width="960" height="600" alt="Smart ALU - Waveform" src="https://github.com/user-attachments/assets/3bffa8fe-3c58-4f1e-83ad-615bc34c2e18" />
+<img width="960" height="600" alt="Hardware space - smart alu" src="https://github.com/user-attachments/assets/5e6ab4eb-0e4a-4f2b-946d-40dce4f0ef87" />
+<img width="960" height="600" alt="Power report - smart alu" src="https://github.com/user-attachments/assets/8fdb3dab-dfd9-4e71-ab84-d8dd30392f5d" />
+<img width="960" height="600" alt="Smart - RTL Schematic" src="https://github.com/user-attachments/assets/f2a3a8de-096f-47cd-a838-325cd9500111" />
