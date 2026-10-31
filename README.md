@@ -13,3 +13,7 @@ A synthesizable, hardware-efficient Context-Aware Smart ALU designed in Verilog 
 
 # Verification
 Designed, simulated, and synthesized using AMD Xilinx Vivado ML Standard Edition.
+
+# Simulation Waveforms & Verification 
+
+![Smart ALU](C:\Users\abhij\OneDrive\Desktop\Smart_ALU\comparision)
